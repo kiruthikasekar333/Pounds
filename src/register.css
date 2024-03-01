@@ -1,0 +1,30 @@
+.reg-btn{
+    padding: 10px;
+    border-radius: 5px;
+    width: 210px; 
+    border: none;
+    background-color: #117A7A;
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.fname{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    width:32%;
+}
+.lname{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px; 
+    width:32%;
+}
+.fname-label{
+    margin-left: 70px;
+}

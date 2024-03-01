@@ -1,0 +1,69 @@
+.google-content{
+    display: flex;
+    justify-content: center;
+    }
+.google-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: #58595B;
+    background-color: #ffffff;
+    font-size: 14px;
+    border: grey;
+    margin-top: 20px; 
+    cursor: pointer;
+  }
+  
+  .google-logo {
+    height: 20px;
+    width: 20px;
+    margin-right: 5px; /* Adjust spacing between logo and text */
+  }
+
+  .p-tag{
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    font-family: sans-serif;
+    color:#58595B;
+    font-weight: bold;
+    text-align: center;
+  }
+
+
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .login-input{
+    padding: 10px;
+    border-radius: 10px;
+    width:100%;
+    border: none;
+    margin-bottom: 20px;
+  }
+  .pro-btn {
+    padding: 10px;
+    border-radius: 10px;
+    width: 210px; 
+    border: none;
+    background-color: #ED2D2F; 
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+
+  .user{
+    font-size: 14px;
+  }
+  .account{
+color:#ED2D2F ;
+text-decoration-line: underline;
+cursor: pointer;
+  }
